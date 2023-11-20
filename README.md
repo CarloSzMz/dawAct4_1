@@ -7,5 +7,5 @@
   </a>
 </h3>
 <div align="center">
- ![imagen](https://github.com/CarloSzMz/dawAct4_1/blob/main/img/icon.jpg)
+ ![imagen](img/icon.jpg)
 </div>
