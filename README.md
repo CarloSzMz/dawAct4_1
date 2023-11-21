@@ -8,11 +8,12 @@
 
 ### Código
 
-`<html lang="en">
+```
+<html lang="en">
 <body>
     <h1>Módulos de Desarrollo de Aplicaciones Web</h1>
     <ul>
         <li>Despliegue de aplicaciones Web</li>
     </ul>
 </body>
-</html>`
+</html>
